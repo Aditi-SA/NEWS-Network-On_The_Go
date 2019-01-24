@@ -1,6 +1,6 @@
 # NEWS-Network-On_The_Go
 
-[Click Here to deploy the app] (https://shielded-beach-16365.herokuapp.com/)
+[Click Here to deploy the app](https://shielded-beach-16365.herokuapp.com)
 
 A web app that lets users view articles scrapped from the latest news on NPR.com.
 Users can also save and leave comments on the selected articles.
